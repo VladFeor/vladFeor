@@ -12,6 +12,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/влад-мелещук-14ba0221a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/влад-мелещук-14ba0221a/" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/_kingret_fbh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/_kingret_fbh" height="30" width="40" /></a>
+  <a href="https://t.me/Mono435" target="blank"><img align="center" src="https://store-images.s-microsoft.com/image/apps.55245.13537716651231321.3067a421-6c2f-48a9-b77c-1e38e19146e6.10e2aa49-52ca-4e79-9a61-b6422978afb9" alt="https://www.behance.net/_kingret_fbh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
