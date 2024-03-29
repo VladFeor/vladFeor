@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Vlad</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
--👩🏻‍💻 Front-end development of multifunctional websites
--👩🏻‍🎓 Studied Computer Science at the University of Kyiv, Ukrain💙💛
--🎨 I make websites using new technologies and try to contribute to the industry
--🌷 #learninginpublic in my digital garden
--💭 Now I'm studying administration and networks!
+<h3>-👩🏻‍💻 Front-end development of multifunctional websites</h3>
+<h3>-👩🏻‍🎓 Studied Computer Science at the University of Kyiv, Ukrain💙💛</h3>
+<h3>-🎨 I make websites using new technologies and try to contribute to the industry</h3>
+<h3>-🌷 #learninginpublic in my digital garden</h3>
+<h3>-💭 Now I'm studying administration and networks!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
